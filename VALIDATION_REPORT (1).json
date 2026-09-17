@@ -1,0 +1,13 @@
+{
+  "missing_required_review_files": [],
+  "questions_rows": 80,
+  "heatmap_rows": 119,
+  "formal_validation_rows": 8,
+  "diagnostic_rows": 35,
+  "d6_original_rows": 17,
+  "d6_revised_rows": 17,
+  "raw_claim_labels_available": false,
+  "raw_paired_outputs_available": false,
+  "passes_review_package_structure": true,
+  "passes_full_reproduction_package": false
+}
