@@ -1,0 +1,14 @@
+{
+  "missing_required_files": [],
+  "row_counts": {
+    "data/outputs/gpt4o_no_rag_outputs_80.csv": 80,
+    "data/outputs/gpt4o_rag_outputs_80.csv": 80,
+    "data/outputs/mistral_rag_outputs_80.csv": 80,
+    "data/outputs/llama_rag_outputs_80.csv": 80,
+    "data/claims/no_rag_atomic_claim_labels_579.csv": 579,
+    "data/claims/question_level_claim_counts_all_conditions_320.csv": 320,
+    "data/heatmap/heatmap_cells_119_with_evidence.csv": 119,
+    "data/heatmap/formal_validation_8_with_evidence.csv": 8
+  },
+  "passes": true
+}

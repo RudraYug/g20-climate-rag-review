@@ -1,0 +1,19 @@
+﻿Path / component,Status,Notes
+manuscript/,Included,Updated Cambridge A manuscript and supplementary material.
+data/questions/,Included,"80 author-prepared questions, reviewer answers and non-adjudicated Full/Partial/None outcomes."
+data/heatmap/,Included,"Original and D6-audited 119-cell matrices, evidence, formal 8-cell and diagnostic 35-cell files."
+data/d6_transport/,Included,"Original D6 outputs, revised 17-cell source audit and evidence."
+data/outputs/gpt4o_no_rag_outputs_80.*,Recovered,80 canonical no-RAG outputs with evaluation evidence packages and metrics.
+data/outputs/gpt4o_rag_outputs_80.*,Recovered,80 canonical GPT-4o+RAG outputs with retrieved contexts and metrics.
+data/outputs/mistral_rag_outputs_80.*,Recovered,"80 Mistral+RAG output rows, including one 503 error row."
+data/outputs/llama_rag_outputs_80.*,Recovered,"80 LLaMA+RAG output rows, including four 413 error rows."
+data/outputs/historical/,Included,"412 noncanonical historical GPT-4o traces, separately indexed."
+data/claims/no_rag_atomic_claim_labels_579.*,Recovered,"579 claims with text, GPT-4o-mini label and judge reason."
+data/claims/*question_level_claim_counts_80.csv,Recovered,Per-answer category counts for all four conditions.
+RAG atomic claim text/reasons,Unavailable,The original RAG run serialized counts only; records were not reconstructed.
+src/,Included,"Recovered collection, parsing, indexing, retrieval, generation, evaluation and gap-analysis source."
+prompts/,Partial,"Exact RAG, claim-judge and gap-analysis prompts recovered; exact no-RAG text not found."
+data/indexing/,Included metadata,Indexing reports and vector-store status; populated SQLite omitted because it exceeds 100 MB.
+Point-estimate reproduction,Passed,Recovered counts reproduce the final claim-rate point estimates.
+Paired bootstrap reproduction,Passed at manuscript precision,Direct count-based cluster bootstrap reproduces the reported rounded intervals/p-values.
+End-to-end generation reproduction,Partial,Exact dated RAG GPT-4o snapshot and atomic RAG claim text/reasons are unavailable.

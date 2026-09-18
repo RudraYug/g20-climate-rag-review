@@ -1,0 +1,44 @@
+{
+  "point_estimates": {
+    "gpt4o_no_rag": {
+      "supported": 0.35233160621761656,
+      "partial": 0.22797927461139897,
+      "uf": 0.41968911917098445
+    },
+    "gpt4o_rag": {
+      "supported": 0.5140388768898488,
+      "partial": 0.3326133909287257,
+      "uf": 0.15334773218142547
+    },
+    "mistral_rag": {
+      "supported": 0.5311778290993071,
+      "partial": 0.3071593533487298,
+      "uf": 0.16166281755196305
+    },
+    "llama_rag": {
+      "supported": 0.40848214285714285,
+      "partial": 0.3705357142857143,
+      "uf": 0.22098214285714285
+    }
+  },
+  "paired_bootstrap": {
+    "no_rag_minus_gpt4o_rag_uf": {
+      "difference": 0.266341386989559,
+      "ci_lower": 0.18662055941408362,
+      "ci_upper": 0.34355782887840064,
+      "p_value": 0.0
+    },
+    "gpt4o_minus_mistral_rag_uf": {
+      "difference": -0.008315085370537573,
+      "ci_lower": -0.06274793475799846,
+      "ci_upper": 0.04567755213478711,
+      "p_value": 0.7558
+    },
+    "gpt4o_minus_llama_rag_uf": {
+      "difference": -0.06763441067571738,
+      "ci_lower": -0.12670061127339607,
+      "ci_upper": -0.008147200191789236,
+      "p_value": 0.0258
+    }
+  }
+}

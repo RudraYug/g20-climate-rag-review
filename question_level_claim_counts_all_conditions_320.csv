@@ -1,0 +1,321 @@
+﻿qid,model_condition,question,n_claims,supported,partial,unsupported,fabricated,grounding_score,per_answer_unsupported_fabricated_rate
+F001,gpt4o_no_rag,What is India's target for cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030?,3,2,0,1,0,0.6667,0.3333
+F002,gpt4o_no_rag,"By how much does India commit to reducing the emissions intensity of its GDP by 2030, compared to 2005 levels?",1,0,1,0,0,0.5,0.0
+F003,gpt4o_no_rag,What is India's target for additional carbon sink creation through forest and tree cover by 2030?,2,2,0,0,0,1.0,0.0
+F004,gpt4o_no_rag,When does China commit to achieving peak CO2 emissions under its NDC2?,3,3,0,0,0,1.0,0.0
+F005,gpt4o_no_rag,What is China's 2030 target for installed capacity of wind and solar power?,3,2,0,1,0,0.6667,0.3333
+F006,gpt4o_no_rag,What share of non-fossil fuels in primary energy consumption does China target by 2030?,3,2,0,1,0,0.6667,0.3333
+F007,gpt4o_no_rag,What is the United States' 2030 economy-wide greenhouse gas emissions reduction target under its NDC2?,3,3,0,0,0,1.0,0.0
+F008,gpt4o_no_rag,What is the United Kingdom's 2030 greenhouse gas reduction target and the baseline year used?,2,2,0,0,0,1.0,0.0
+F009,gpt4o_no_rag,What net zero target has the UK set and what legislation underpins it?,4,4,0,0,0,1.0,0.0
+F010,gpt4o_no_rag,What is the European Union's binding 2030 greenhouse gas reduction target under its NDC2?,2,2,0,0,0,1.0,0.0
+F011,gpt4o_no_rag,What is Japan's 2030 greenhouse gas reduction target and what baseline year does it use?,2,2,0,0,0,1.0,0.0
+F012,gpt4o_no_rag,What is Australia's 2030 emissions reduction target and net zero commitment year?,2,2,0,0,0,1.0,0.0
+F013,gpt4o_no_rag,What is Brazil's 2030 absolute emissions reduction target and baseline year?,2,1,0,1,0,0.5,0.5
+F014,gpt4o_no_rag,What are Indonesia's unconditional and conditional GHG reduction targets by 2030?,6,3,3,0,0,0.75,0.0
+F015,gpt4o_no_rag,What are Indonesia's primary climate adaptation priorities identified in its NDC2?,10,3,2,5,0,0.4,0.5
+F016,gpt4o_no_rag,What is South Korea's 2030 NDC target expressed as a percentage reduction from BAU?,2,1,0,1,0,0.5,0.5
+F017,gpt4o_no_rag,What is Canada's 2030 emissions reduction commitment range and its baseline?,4,4,0,0,0,1.0,0.0
+F018,gpt4o_no_rag,What are Mexico's unconditional and conditional GHG reduction targets under its NDC2?,4,3,1,0,0,0.875,0.0
+F019,gpt4o_no_rag,What is South Africa's NDC2 emissions range target for the period 2025-2030?,6,3,1,2,0,0.5833,0.3333
+F020,gpt4o_no_rag,What is Saudi Arabia's NDC2 absolute emissions reduction target by 2030?,4,1,2,1,0,0.5,0.25
+F021,gpt4o_no_rag,What is Argentina's 2030 absolute emissions cap under its NDC2?,4,3,0,1,0,0.75,0.25
+F022,gpt4o_no_rag,What is Turkey's 2030 GHG reduction target relative to BAU?,3,3,0,0,0,1.0,0.0
+F023,gpt4o_no_rag,What is Russia's 2030 GHG reduction target and the baseline used in its NDC2?,6,3,1,2,0,0.5833,0.3333
+F024,gpt4o_no_rag,What global GHG emission reduction does IPCC AR6 WG3 recommend by 2030 to limit warming to 1.5 degrees Celsius?,3,0,2,1,0,0.3333,0.3333
+F025,gpt4o_no_rag,"According to IPCC AR6 WG3, what renewable electricity share is required by 2050 for 1.5 degree pathways?",4,3,1,0,0,0.875,0.0
+F026,gpt4o_no_rag,What does IPCC AR6 WG3 state about the required trajectory for methane emissions to limit warming to 1.5 degrees?,6,4,0,2,0,0.6667,0.3333
+F027,gpt4o_no_rag,"According to IPCC AR6 WG3, what share of global electricity supply did renewables reach by 2019 and what was the cost trend?",3,1,1,1,0,0.5,0.3333
+F028,gpt4o_no_rag,How did India's NDC2 (2022) update its renewable energy target compared to NDC1 (2015)?,4,3,1,0,0,0.875,0.0
+F029,gpt4o_no_rag,Does Indonesia's NDC2 explicitly address loss and damage from climate change?,6,4,2,0,0,0.8333,0.0
+F030,gpt4o_no_rag,What international climate finance condition does India attach to its NDC2 commitments?,4,3,1,0,0,0.875,0.0
+C001,gpt4o_no_rag,Compare the 2030 GHG reduction targets of the United States and the European Union. Which is more ambitious and why?,11,4,1,6,0,0.4091,0.5455
+C002,gpt4o_no_rag,"Compare the net zero target years and legislative bases of the UK, EU, Canada, and Japan.",12,5,0,7,0,0.4167,0.5833
+C003,gpt4o_no_rag,Compare India's and China's renewable energy commitments in their NDC2 submissions. Which country has a more specific and measurable target?,7,4,0,3,0,0.5714,0.4286
+C004,gpt4o_no_rag,"Why is it difficult to directly compare Japan's 2030 target with the USA's 2030 target, and how should researchers adjust for this?",11,3,4,4,0,0.4545,0.3636
+C005,gpt4o_no_rag,"Compare the use of conditional targets in Indonesia's, Mexico's, and India's NDC2 submissions.",9,3,2,4,0,0.4444,0.4444
+C006,gpt4o_no_rag,Compare the 2030 ambition level of Australia's NDC2 against the UK's NDC2 using the same baseline year.,7,7,0,0,0,1.0,0.0
+C007,gpt4o_no_rag,How do Brazil's and Indonesia's NDC2 submissions differ in their approach to forest-related climate commitments?,12,2,0,10,0,0.1667,0.8333
+C008,gpt4o_no_rag,Which G20 countries in the corpus explicitly mention carbon pricing mechanisms in their NDC2 submissions?,8,1,0,7,0,0.125,0.875
+C009,gpt4o_no_rag,How did China's renewable energy target evolve between NDC1 (2016) and NDC2 (2021)?,6,2,0,4,0,0.3333,0.6667
+C010,gpt4o_no_rag,How does the UK's NDC2 assess its per-capita emissions relative to global 1.5 degree pathway benchmarks?,6,5,1,0,0,0.9167,0.0
+C011,gpt4o_no_rag,Compare the greenhouse gas scope coverage between Saudi Arabia's NDC2 and South Africa's NDC2.,12,6,6,0,0,0.75,0.0
+C012,gpt4o_no_rag,How do India's and China's NDC submissions reference the principle of common but differentiated responsibilities (CBDR)?,8,2,4,2,0,0.5,0.25
+C013,gpt4o_no_rag,Which countries in the G20 corpus include explicit electric vehicle targets in their NDC2 submissions?,7,0,1,6,0,0.0714,0.8571
+C014,gpt4o_no_rag,"Compare the structural quality of Indonesia's NDC2 versus Turkey's NDC2 in terms of specificity, measurability, and time-bound targets.",10,0,0,10,0,0.0,1.0
+C015,gpt4o_no_rag,Which G20 NDC2 submissions in the corpus explicitly address just transition principles for workers in fossil fuel industries?,10,0,5,5,0,0.25,0.5
+C016,gpt4o_no_rag,Which has a more ambitious 2030 target relative to the IPCC 1.5°C benchmark — India or Australia?,4,1,0,3,0,0.25,0.75
+C017,gpt4o_no_rag,How do the USA's and EU's NDC2 submissions address methane reduction compared to the IPCC-recommended 34 percent reduction by 2030?,12,3,0,9,0,0.25,0.75
+C018,gpt4o_no_rag,Compare how Russia and Brazil account for LULUCF in their NDC2 submissions.,9,1,3,5,0,0.2778,0.5556
+C019,gpt4o_no_rag,Compare the overall ambition of G20 collective NDC2 targets against the IPCC-recommended 2030 pathway. Is the collective on track?,11,7,4,0,0,0.8182,0.0
+C020,gpt4o_no_rag,Which developing G20 countries in the corpus make the strongest explicit calls for adaptation finance from developed nations?,11,2,2,7,0,0.2727,0.6364
+C021,gpt4o_no_rag,Compare the sector coverage of Canada's and Mexico's NDC2 submissions.,8,3,4,1,0,0.625,0.125
+C022,gpt4o_no_rag,How do China's and South Korea's NDC2 submissions differ in their approach to hydrogen as a clean energy technology?,9,0,0,9,0,0.0,1.0
+C023,gpt4o_no_rag,"Why do Russia's and Turkey's NDC2 targets appear modest compared to other G20 nations, and what contextual factors explain this?",12,1,4,7,0,0.25,0.5833
+C024,gpt4o_no_rag,Compare the transparency and reporting commitments in Japan's and South Korea's NDC2 submissions.,8,0,1,7,0,0.0625,0.875
+C025,gpt4o_no_rag,Which G20 NDC2 submissions explicitly address gender equity and social inclusion in climate action?,10,0,1,9,0,0.05,0.9
+G001,gpt4o_no_rag,What is the gap between China's 2030 non-fossil energy target and IPCC AR6 recommendations for the energy sector?,10,4,1,5,0,0.45,0.5
+G002,gpt4o_no_rag,Identify the gap between India's NDC2 long-term targets and IPCC AR6 net zero recommendations for developing nations.,8,1,2,5,0,0.25,0.625
+G003,gpt4o_no_rag,Assess the gap between G20 NDC2 methane commitments and IPCC AR6 methane reduction recommendations.,11,3,2,6,0,0.3636,0.5455
+G004,gpt4o_no_rag,What is the gap between developing G20 nations' identified adaptation needs and the international finance commitments in their NDC2 submissions?,8,4,4,0,0,0.75,0.0
+G005,gpt4o_no_rag,"Which G20 NDC2 submissions in the corpus include coal phase-out commitments, and how does this compare to IPCC guidance?",8,3,4,1,0,0.625,0.125
+G006,gpt4o_no_rag,Identify three G20 NDC2 commitments that are vague and lack measurability compared to IPCC quantified recommendations.,8,0,1,7,0,0.0625,0.875
+G007,gpt4o_no_rag,What is the gap between G20 NDC2 transport sector commitments and IPCC AR6 WG3 transport decarbonisation recommendations?,12,1,7,4,0,0.375,0.3333
+G008,gpt4o_no_rag,Which sectors required by IPCC AR6 for deep decarbonisation are absent or underrepresented in Saudi Arabia's NDC2?,8,2,1,5,0,0.3125,0.625
+G009,gpt4o_no_rag,Is there a contradiction between China's 2060 carbon neutrality commitment and IPCC AR6's recommendation for achieving net zero CO2 by around 2050?,7,5,0,2,0,0.7143,0.2857
+G010,gpt4o_no_rag,What is the gap in G20 NDC2 submissions regarding loss and damage compared to IPCC AR6 WG2 findings on irreversible climate impacts?,11,1,4,6,0,0.2727,0.5455
+G011,gpt4o_no_rag,Does Australia's 43% reduction by 2030 align with IPCC's recommended pathway for advanced economies?,2,1,0,1,0,0.5,0.5
+G012,gpt4o_no_rag,Identify the gap between India's agriculture sector NDC commitments and IPCC AR6 recommendations for agricultural emissions.,12,4,3,5,0,0.4583,0.4167
+G013,gpt4o_no_rag,What implementation gaps exist between Mexico's NDC2 stated targets and its domestic policy framework?,12,5,6,1,0,0.6667,0.0833
+G014,gpt4o_no_rag,Which sectors required for deep decarbonisation by IPCC AR6 are missing from Russia's NDC2?,9,1,6,2,0,0.4444,0.2222
+G015,gpt4o_no_rag,"Does South Korea's 2030 target of 40% below 2018 BAU align with IPCC requirements for developed economies, and what specific gaps exist?",4,1,2,1,0,0.5,0.25
+G016,gpt4o_no_rag,Assess the gap between G20 NDC2 carbon capture and storage (CCS) commitments and IPCC AR6 recommendations for CCS deployment.,12,6,4,2,0,0.6667,0.1667
+G017,gpt4o_no_rag,What is the gap in G20 NDC2 submissions regarding nature-based solutions and biodiversity protection compared to IPCC recommendations?,12,1,7,4,0,0.375,0.3333
+G018,gpt4o_no_rag,"What is the collective conditional versus unconditional gap across G20 NDC2 developing nations, and what does this mean for global ambition?",12,9,3,0,0,0.875,0.0
+G019,gpt4o_no_rag,Assess the gap between G20 NDC2 industrial decarbonisation commitments and IPCC AR6 guidance for heavy industry.,12,3,3,6,0,0.375,0.5
+G020,gpt4o_no_rag,How does the distribution of G20 NDC2 ambition levels relate to historical cumulative emissions and the equity principle in IPCC AR6?,8,2,2,4,0,0.375,0.5
+G021,gpt4o_no_rag,"Which G20 NDC2 submissions address fossil fuel subsidies, and how does this compare to IPCC guidance?",11,0,0,11,0,0.0,1.0
+G022,gpt4o_no_rag,"Which G20 countries in the corpus have net zero targets in their NDC2 and which do not, and how does this compare to IPCC's 2050 requirement?",8,2,1,5,0,0.3125,0.625
+G023,gpt4o_no_rag,What is the gap between G20 NDC2 food system commitments and IPCC AR6 recommendations for sustainable food systems?,11,3,3,5,0,0.4091,0.4545
+G024,gpt4o_no_rag,What is the gap between G20 developed nations' climate finance commitments in their NDC2 and the IPCC-identified needs of developing nations?,10,4,2,4,0,0.5,0.4
+G025,gpt4o_no_rag,Summarise the three most critical gaps between the collective G20 NDC2 ambition and IPCC AR6 1.5 degree pathway requirements.,12,4,2,6,0,0.4167,0.5
+F001,gpt4o_rag,What is India's target for cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030?,4,4,0,0,0,1.0,0.0
+F002,gpt4o_rag,"By how much does India commit to reducing the emissions intensity of its GDP by 2030, compared to 2005 levels?",1,1,0,0,0,1.0,0.0
+F003,gpt4o_rag,What is India's target for additional carbon sink creation through forest and tree cover by 2030?,2,2,0,0,0,1.0,0.0
+F004,gpt4o_rag,When does China commit to achieving peak CO2 emissions under its NDC2?,5,5,0,0,0,1.0,0.0
+F005,gpt4o_rag,What is China's 2030 target for installed capacity of wind and solar power?,1,0,0,1,0,0.0,1.0
+F006,gpt4o_rag,What share of non-fossil fuels in primary energy consumption does China target by 2030?,1,1,0,0,0,1.0,0.0
+F007,gpt4o_rag,What is the United States' 2030 economy-wide greenhouse gas emissions reduction target under its NDC2?,3,3,0,0,0,1.0,0.0
+F008,gpt4o_rag,What is the United Kingdom's 2030 greenhouse gas reduction target and the baseline year used?,3,2,0,1,0,0.6667,0.3333
+F009,gpt4o_rag,What net zero target has the UK set and what legislation underpins it?,10,8,1,1,0,0.85,0.1
+F010,gpt4o_rag,What is the European Union's binding 2030 greenhouse gas reduction target under its NDC2?,4,3,1,0,0,0.875,0.0
+F011,gpt4o_rag,What is Japan's 2030 greenhouse gas reduction target and what baseline year does it use?,6,4,1,1,0,0.75,0.1667
+F012,gpt4o_rag,What is Australia's 2030 emissions reduction target and net zero commitment year?,3,2,1,0,0,0.8333,0.0
+F013,gpt4o_rag,What is Brazil's 2030 absolute emissions reduction target and baseline year?,4,2,0,2,0,0.5,0.5
+F014,gpt4o_rag,What are Indonesia's unconditional and conditional GHG reduction targets by 2030?,3,1,2,0,0,0.6667,0.0
+F015,gpt4o_rag,What are Indonesia's primary climate adaptation priorities identified in its NDC2?,9,5,4,0,0,0.7778,0.0
+F016,gpt4o_rag,What is South Korea's 2030 NDC target expressed as a percentage reduction from BAU?,3,3,0,0,0,1.0,0.0
+F017,gpt4o_rag,What is Canada's 2030 emissions reduction commitment range and its baseline?,5,3,1,1,0,0.7,0.2
+F018,gpt4o_rag,What are Mexico's unconditional and conditional GHG reduction targets under its NDC2?,0,0,0,0,0,0.0,1.0
+F019,gpt4o_rag,What is South Africa's NDC2 emissions range target for the period 2025-2030?,10,6,3,1,0,0.75,0.1
+F020,gpt4o_rag,What is Saudi Arabia's NDC2 absolute emissions reduction target by 2030?,3,0,1,2,0,0.1667,0.6667
+F021,gpt4o_rag,What is Argentina's 2030 absolute emissions cap under its NDC2?,4,1,2,1,0,0.5,0.25
+F022,gpt4o_rag,What is Turkey's 2030 GHG reduction target relative to BAU?,5,3,2,0,0,0.8,0.0
+F023,gpt4o_rag,What is Russia's 2030 GHG reduction target and the baseline used in its NDC2?,6,5,1,0,0,0.9167,0.0
+F024,gpt4o_rag,What global GHG emission reduction does IPCC AR6 WG3 recommend by 2030 to limit warming to 1.5 degrees Celsius?,4,1,2,1,0,0.5,0.25
+F025,gpt4o_rag,"According to IPCC AR6 WG3, what renewable electricity share is required by 2050 for 1.5 degree pathways?",4,1,3,0,0,0.625,0.0
+F026,gpt4o_rag,What does IPCC AR6 WG3 state about the required trajectory for methane emissions to limit warming to 1.5 degrees?,0,0,0,0,0,0.0,1.0
+F027,gpt4o_rag,"According to IPCC AR6 WG3, what share of global electricity supply did renewables reach by 2019 and what was the cost trend?",9,6,1,2,0,0.7222,0.2222
+F028,gpt4o_rag,How did India's NDC2 (2022) update its renewable energy target compared to NDC1 (2015)?,8,4,2,2,0,0.625,0.25
+F029,gpt4o_rag,Does Indonesia's NDC2 explicitly address loss and damage from climate change?,0,0,0,0,0,0.0,1.0
+F030,gpt4o_rag,What international climate finance condition does India attach to its NDC2 commitments?,7,5,2,0,0,0.8571,0.0
+C001,gpt4o_rag,Compare the 2030 GHG reduction targets of the United States and the European Union. Which is more ambitious and why?,8,5,2,1,0,0.75,0.125
+C002,gpt4o_rag,"Compare the net zero target years and legislative bases of the UK, EU, Canada, and Japan.",10,7,1,2,0,0.75,0.2
+C003,gpt4o_rag,Compare India's and China's renewable energy commitments in their NDC2 submissions. Which country has a more specific and measurable target?,9,1,4,4,0,0.3333,0.4444
+C004,gpt4o_rag,"Why is it difficult to directly compare Japan's 2030 target with the USA's 2030 target, and how should researchers adjust for this?",0,0,0,0,0,0.0,1.0
+C005,gpt4o_rag,"Compare the use of conditional targets in Indonesia's, Mexico's, and India's NDC2 submissions.",9,5,4,0,0,0.7778,0.0
+C006,gpt4o_rag,Compare the 2030 ambition level of Australia's NDC2 against the UK's NDC2 using the same baseline year.,9,4,3,2,0,0.6111,0.2222
+C007,gpt4o_rag,How do Brazil's and Indonesia's NDC2 submissions differ in their approach to forest-related climate commitments?,10,2,2,6,0,0.3,0.6
+C008,gpt4o_rag,Which G20 countries in the corpus explicitly mention carbon pricing mechanisms in their NDC2 submissions?,0,0,0,0,0,0.0,1.0
+C009,gpt4o_rag,How did China's renewable energy target evolve between NDC1 (2016) and NDC2 (2021)?,6,3,1,2,0,0.5833,0.3333
+C010,gpt4o_rag,How does the UK's NDC2 assess its per-capita emissions relative to global 1.5 degree pathway benchmarks?,7,5,2,0,0,0.8571,0.0
+C011,gpt4o_rag,Compare the greenhouse gas scope coverage between Saudi Arabia's NDC2 and South Africa's NDC2.,10,2,4,4,0,0.4,0.4
+C012,gpt4o_rag,How do India's and China's NDC submissions reference the principle of common but differentiated responsibilities (CBDR)?,0,0,0,0,0,0.0,1.0
+C013,gpt4o_rag,Which countries in the G20 corpus include explicit electric vehicle targets in their NDC2 submissions?,6,1,0,5,0,0.1667,0.8333
+C014,gpt4o_rag,"Compare the structural quality of Indonesia's NDC2 versus Turkey's NDC2 in terms of specificity, measurability, and time-bound targets.",10,2,3,5,0,0.35,0.5
+C015,gpt4o_rag,Which G20 NDC2 submissions in the corpus explicitly address just transition principles for workers in fossil fuel industries?,9,2,6,1,0,0.5556,0.1111
+C016,gpt4o_rag,Which has a more ambitious 2030 target relative to the IPCC 1.5°C benchmark — India or Australia?,0,0,0,0,0,0.0,1.0
+C017,gpt4o_rag,How do the USA's and EU's NDC2 submissions address methane reduction compared to the IPCC-recommended 34 percent reduction by 2030?,7,4,3,0,0,0.7857,0.0
+C018,gpt4o_rag,Compare how Russia and Brazil account for LULUCF in their NDC2 submissions.,9,0,3,6,0,0.1667,0.6667
+C019,gpt4o_rag,Compare the overall ambition of G20 collective NDC2 targets against the IPCC-recommended 2030 pathway. Is the collective on track?,10,5,5,0,0,0.75,0.0
+C020,gpt4o_rag,Which developing G20 countries in the corpus make the strongest explicit calls for adaptation finance from developed nations?,4,3,1,0,0,0.875,0.0
+C021,gpt4o_rag,Compare the sector coverage of Canada's and Mexico's NDC2 submissions.,0,0,0,0,0,0.0,1.0
+C022,gpt4o_rag,How do China's and South Korea's NDC2 submissions differ in their approach to hydrogen as a clean energy technology?,0,0,0,0,0,0.0,1.0
+C023,gpt4o_rag,"Why do Russia's and Turkey's NDC2 targets appear modest compared to other G20 nations, and what contextual factors explain this?",10,3,5,2,0,0.55,0.2
+C024,gpt4o_rag,Compare the transparency and reporting commitments in Japan's and South Korea's NDC2 submissions.,10,1,6,3,0,0.4,0.3
+C025,gpt4o_rag,Which G20 NDC2 submissions explicitly address gender equity and social inclusion in climate action?,7,5,2,0,0,0.8571,0.0
+G001,gpt4o_rag,What is the gap between China's 2030 non-fossil energy target and IPCC AR6 recommendations for the energy sector?,3,2,1,0,0,0.8333,0.0
+G002,gpt4o_rag,Identify the gap between India's NDC2 long-term targets and IPCC AR6 net zero recommendations for developing nations.,4,3,0,1,0,0.75,0.25
+G003,gpt4o_rag,Assess the gap between G20 NDC2 methane commitments and IPCC AR6 methane reduction recommendations.,9,4,5,0,0,0.7222,0.0
+G004,gpt4o_rag,What is the gap between developing G20 nations' identified adaptation needs and the international finance commitments in their NDC2 submissions?,10,3,5,2,0,0.55,0.2
+G005,gpt4o_rag,"Which G20 NDC2 submissions in the corpus include coal phase-out commitments, and how does this compare to IPCC guidance?",10,5,4,1,0,0.7,0.1
+G006,gpt4o_rag,Identify three G20 NDC2 commitments that are vague and lack measurability compared to IPCC quantified recommendations.,9,6,3,0,0,0.8333,0.0
+G007,gpt4o_rag,What is the gap between G20 NDC2 transport sector commitments and IPCC AR6 WG3 transport decarbonisation recommendations?,9,2,6,1,0,0.5556,0.1111
+G008,gpt4o_rag,Which sectors required by IPCC AR6 for deep decarbonisation are absent or underrepresented in Saudi Arabia's NDC2?,0,0,0,0,0,0.0,1.0
+G009,gpt4o_rag,Is there a contradiction between China's 2060 carbon neutrality commitment and IPCC AR6's recommendation for achieving net zero CO2 by around 2050?,5,4,0,1,0,0.8,0.2
+G010,gpt4o_rag,What is the gap in G20 NDC2 submissions regarding loss and damage compared to IPCC AR6 WG2 findings on irreversible climate impacts?,0,0,0,0,0,0.0,1.0
+G011,gpt4o_rag,Does Australia's 43% reduction by 2030 align with IPCC's recommended pathway for advanced economies?,4,4,0,0,0,1.0,0.0
+G012,gpt4o_rag,Identify the gap between India's agriculture sector NDC commitments and IPCC AR6 recommendations for agricultural emissions.,6,0,5,1,0,0.4167,0.1667
+G013,gpt4o_rag,What implementation gaps exist between Mexico's NDC2 stated targets and its domestic policy framework?,8,2,4,2,0,0.5,0.25
+G014,gpt4o_rag,Which sectors required for deep decarbonisation by IPCC AR6 are missing from Russia's NDC2?,0,0,0,0,0,0.0,1.0
+G015,gpt4o_rag,"Does South Korea's 2030 target of 40% below 2018 BAU align with IPCC requirements for developed economies, and what specific gaps exist?",6,5,0,1,0,0.8333,0.1667
+G016,gpt4o_rag,Assess the gap between G20 NDC2 carbon capture and storage (CCS) commitments and IPCC AR6 recommendations for CCS deployment.,7,3,3,1,0,0.6429,0.1429
+G017,gpt4o_rag,What is the gap in G20 NDC2 submissions regarding nature-based solutions and biodiversity protection compared to IPCC recommendations?,10,5,5,0,0,0.75,0.0
+G018,gpt4o_rag,"What is the collective conditional versus unconditional gap across G20 NDC2 developing nations, and what does this mean for global ambition?",10,6,4,0,0,0.8,0.0
+G019,gpt4o_rag,Assess the gap between G20 NDC2 industrial decarbonisation commitments and IPCC AR6 guidance for heavy industry.,8,5,3,0,0,0.8125,0.0
+G020,gpt4o_rag,How does the distribution of G20 NDC2 ambition levels relate to historical cumulative emissions and the equity principle in IPCC AR6?,10,10,0,0,0,1.0,0.0
+G021,gpt4o_rag,"Which G20 NDC2 submissions address fossil fuel subsidies, and how does this compare to IPCC guidance?",10,8,2,0,0,0.9,0.0
+G022,gpt4o_rag,"Which G20 countries in the corpus have net zero targets in their NDC2 and which do not, and how does this compare to IPCC's 2050 requirement?",10,9,1,0,0,0.95,0.0
+G023,gpt4o_rag,What is the gap between G20 NDC2 food system commitments and IPCC AR6 recommendations for sustainable food systems?,8,4,4,0,0,0.75,0.0
+G024,gpt4o_rag,What is the gap between G20 developed nations' climate finance commitments in their NDC2 and the IPCC-identified needs of developing nations?,10,2,7,1,0,0.55,0.1
+G025,gpt4o_rag,Summarise the three most critical gaps between the collective G20 NDC2 ambition and IPCC AR6 1.5 degree pathway requirements.,10,5,5,0,0,0.75,0.0
+F001,mistral_rag,What is India's target for cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030?,2,1,0,1,0,0.5,0.5
+F002,mistral_rag,"By how much does India commit to reducing the emissions intensity of its GDP by 2030, compared to 2005 levels?",3,2,1,0,0,0.8333,0.0
+F003,mistral_rag,What is India's target for additional carbon sink creation through forest and tree cover by 2030?,3,3,0,0,0,1.0,0.0
+F004,mistral_rag,When does China commit to achieving peak CO2 emissions under its NDC2?,4,4,0,0,0,1.0,0.0
+F005,mistral_rag,What is China's 2030 target for installed capacity of wind and solar power?,1,0,0,1,0,0.0,1.0
+F006,mistral_rag,What share of non-fossil fuels in primary energy consumption does China target by 2030?,2,0,1,1,0,0.25,0.5
+F007,mistral_rag,What is the United States' 2030 economy-wide greenhouse gas emissions reduction target under its NDC2?,3,2,1,0,0,0.8333,0.0
+F008,mistral_rag,What is the United Kingdom's 2030 greenhouse gas reduction target and the baseline year used?,7,3,3,1,0,0.6429,0.1429
+F009,mistral_rag,What net zero target has the UK set and what legislation underpins it?,10,10,0,0,0,1.0,0.0
+F010,mistral_rag,What is the European Union's binding 2030 greenhouse gas reduction target under its NDC2?,4,2,1,1,0,0.625,0.25
+F011,mistral_rag,What is Japan's 2030 greenhouse gas reduction target and what baseline year does it use?,3,2,0,1,0,0.6667,0.3333
+F012,mistral_rag,What is Australia's 2030 emissions reduction target and net zero commitment year?,6,4,1,1,0,0.75,0.1667
+F013,mistral_rag,What is Brazil's 2030 absolute emissions reduction target and baseline year?,10,5,0,5,0,0.5,0.5
+F014,mistral_rag,What are Indonesia's unconditional and conditional GHG reduction targets by 2030?,7,1,5,1,0,0.5,0.1429
+F015,mistral_rag,What are Indonesia's primary climate adaptation priorities identified in its NDC2?,10,9,1,0,0,0.95,0.0
+F016,mistral_rag,What is South Korea's 2030 NDC target expressed as a percentage reduction from BAU?,0,0,0,0,0,0.0,1.0
+F017,mistral_rag,What is Canada's 2030 emissions reduction commitment range and its baseline?,9,5,2,2,0,0.6667,0.2222
+F018,mistral_rag,What are Mexico's unconditional and conditional GHG reduction targets under its NDC2?,3,0,3,0,0,0.5,0.0
+F019,mistral_rag,What is South Africa's NDC2 emissions range target for the period 2025-2030?,7,2,3,2,0,0.5,0.2857
+F020,mistral_rag,What is Saudi Arabia's NDC2 absolute emissions reduction target by 2030?,7,1,3,3,0,0.3571,0.4286
+F021,mistral_rag,What is Argentina's 2030 absolute emissions cap under its NDC2?,5,2,1,2,0,0.5,0.4
+F022,mistral_rag,What is Turkey's 2030 GHG reduction target relative to BAU?,7,7,0,0,0,1.0,0.0
+F023,mistral_rag,What is Russia's 2030 GHG reduction target and the baseline used in its NDC2?,4,2,2,0,0,0.75,0.0
+F024,mistral_rag,What global GHG emission reduction does IPCC AR6 WG3 recommend by 2030 to limit warming to 1.5 degrees Celsius?,4,0,2,2,0,0.25,0.5
+F025,mistral_rag,"According to IPCC AR6 WG3, what renewable electricity share is required by 2050 for 1.5 degree pathways?",7,4,2,1,0,0.7143,0.1429
+F026,mistral_rag,What does IPCC AR6 WG3 state about the required trajectory for methane emissions to limit warming to 1.5 degrees?,0,0,0,0,0,0.0,1.0
+F027,mistral_rag,"According to IPCC AR6 WG3, what share of global electricity supply did renewables reach by 2019 and what was the cost trend?",10,4,0,6,0,0.4,0.6
+F028,mistral_rag,How did India's NDC2 (2022) update its renewable energy target compared to NDC1 (2015)?,10,1,4,5,0,0.3,0.5
+F029,mistral_rag,Does Indonesia's NDC2 explicitly address loss and damage from climate change?,0,0,0,0,0,0.0,1.0
+F030,mistral_rag,What international climate finance condition does India attach to its NDC2 commitments?,10,10,0,0,0,1.0,0.0
+C001,mistral_rag,Compare the 2030 GHG reduction targets of the United States and the European Union. Which is more ambitious and why?,3,3,0,0,0,1.0,0.0
+C002,mistral_rag,"Compare the net zero target years and legislative bases of the UK, EU, Canada, and Japan.",10,5,4,1,0,0.7,0.1
+C003,mistral_rag,Compare India's and China's renewable energy commitments in their NDC2 submissions. Which country has a more specific and measurable target?,10,2,2,6,0,0.3,0.6
+C004,mistral_rag,"Why is it difficult to directly compare Japan's 2030 target with the USA's 2030 target, and how should researchers adjust for this?",10,8,0,2,0,0.8,0.2
+C005,mistral_rag,"Compare the use of conditional targets in Indonesia's, Mexico's, and India's NDC2 submissions.",10,9,1,0,0,0.95,0.0
+C006,mistral_rag,Compare the 2030 ambition level of Australia's NDC2 against the UK's NDC2 using the same baseline year.,10,5,4,1,0,0.7,0.1
+C007,mistral_rag,How do Brazil's and Indonesia's NDC2 submissions differ in their approach to forest-related climate commitments?,10,4,5,1,0,0.65,0.1
+C008,mistral_rag,Which G20 countries in the corpus explicitly mention carbon pricing mechanisms in their NDC2 submissions?,0,0,0,0,0,0.0,1.0
+C009,mistral_rag,How did China's renewable energy target evolve between NDC1 (2016) and NDC2 (2021)?,10,6,1,3,0,0.65,0.3
+C010,mistral_rag,How does the UK's NDC2 assess its per-capita emissions relative to global 1.5 degree pathway benchmarks?,9,5,4,0,0,0.7778,0.0
+C011,mistral_rag,Compare the greenhouse gas scope coverage between Saudi Arabia's NDC2 and South Africa's NDC2.,6,1,4,1,0,0.5,0.1667
+C012,mistral_rag,How do India's and China's NDC submissions reference the principle of common but differentiated responsibilities (CBDR)?,0,0,0,0,0,0.0,1.0
+C013,mistral_rag,Which countries in the G20 corpus include explicit electric vehicle targets in their NDC2 submissions?,0,0,0,0,0,0.0,1.0
+C014,mistral_rag,"Compare the structural quality of Indonesia's NDC2 versus Turkey's NDC2 in terms of specificity, measurability, and time-bound targets.",6,2,3,1,0,0.5833,0.1667
+C015,mistral_rag,Which G20 NDC2 submissions in the corpus explicitly address just transition principles for workers in fossil fuel industries?,10,5,5,0,0,0.75,0.0
+C016,mistral_rag,Which has a more ambitious 2030 target relative to the IPCC 1.5°C benchmark — India or Australia?,5,3,2,0,0,0.8,0.0
+C017,mistral_rag,How do the USA's and EU's NDC2 submissions address methane reduction compared to the IPCC-recommended 34 percent reduction by 2030?,4,3,1,0,0,0.875,0.0
+C018,mistral_rag,Compare how Russia and Brazil account for LULUCF in their NDC2 submissions.,6,0,4,2,0,0.3333,0.3333
+C019,mistral_rag,Compare the overall ambition of G20 collective NDC2 targets against the IPCC-recommended 2030 pathway. Is the collective on track?,10,8,2,0,0,0.9,0.0
+C020,mistral_rag,Which developing G20 countries in the corpus make the strongest explicit calls for adaptation finance from developed nations?,0,0,0,0,0,0.0,1.0
+C021,mistral_rag,Compare the sector coverage of Canada's and Mexico's NDC2 submissions.,4,4,0,0,0,1.0,0.0
+C022,mistral_rag,How do China's and South Korea's NDC2 submissions differ in their approach to hydrogen as a clean energy technology?,0,0,0,0,0,0.0,1.0
+C023,mistral_rag,"Why do Russia's and Turkey's NDC2 targets appear modest compared to other G20 nations, and what contextual factors explain this?",10,5,1,4,0,0.55,0.4
+C024,mistral_rag,Compare the transparency and reporting commitments in Japan's and South Korea's NDC2 submissions.,10,7,2,1,0,0.8,0.1
+C025,mistral_rag,Which G20 NDC2 submissions explicitly address gender equity and social inclusion in climate action?,0,0,0,0,0,0.0,1.0
+G001,mistral_rag,What is the gap between China's 2030 non-fossil energy target and IPCC AR6 recommendations for the energy sector?,9,2,4,3,0,0.4444,0.3333
+G002,mistral_rag,Identify the gap between India's NDC2 long-term targets and IPCC AR6 net zero recommendations for developing nations.,10,5,3,2,0,0.65,0.2
+G003,mistral_rag,Assess the gap between G20 NDC2 methane commitments and IPCC AR6 methane reduction recommendations.,10,4,6,0,0,0.7,0.0
+G004,mistral_rag,What is the gap between developing G20 nations' identified adaptation needs and the international finance commitments in their NDC2 submissions?,10,3,5,2,0,0.55,0.2
+G005,mistral_rag,"Which G20 NDC2 submissions in the corpus include coal phase-out commitments, and how does this compare to IPCC guidance?",10,6,4,0,0,0.8,0.0
+G006,mistral_rag,Identify three G20 NDC2 commitments that are vague and lack measurability compared to IPCC quantified recommendations.,0,0,0,0,0,0.0,1.0
+G007,mistral_rag,What is the gap between G20 NDC2 transport sector commitments and IPCC AR6 WG3 transport decarbonisation recommendations?,0,0,0,0,0,0.0,1.0
+G008,mistral_rag,Which sectors required by IPCC AR6 for deep decarbonisation are absent or underrepresented in Saudi Arabia's NDC2?,0,0,0,0,0,0.0,1.0
+G009,mistral_rag,Is there a contradiction between China's 2060 carbon neutrality commitment and IPCC AR6's recommendation for achieving net zero CO2 by around 2050?,0,0,0,0,0,0.0,1.0
+G010,mistral_rag,What is the gap in G20 NDC2 submissions regarding loss and damage compared to IPCC AR6 WG2 findings on irreversible climate impacts?,0,0,0,0,0,0.0,1.0
+G011,mistral_rag,Does Australia's 43% reduction by 2030 align with IPCC's recommended pathway for advanced economies?,10,6,2,2,0,0.7,0.2
+G012,mistral_rag,Identify the gap between India's agriculture sector NDC commitments and IPCC AR6 recommendations for agricultural emissions.,9,4,4,1,0,0.6667,0.1111
+G013,mistral_rag,What implementation gaps exist between Mexico's NDC2 stated targets and its domestic policy framework?,6,1,5,0,0,0.5833,0.0
+G014,mistral_rag,Which sectors required for deep decarbonisation by IPCC AR6 are missing from Russia's NDC2?,0,0,0,0,0,0.0,1.0
+G015,mistral_rag,"Does South Korea's 2030 target of 40% below 2018 BAU align with IPCC requirements for developed economies, and what specific gaps exist?",6,6,0,0,0,1.0,0.0
+G016,mistral_rag,Assess the gap between G20 NDC2 carbon capture and storage (CCS) commitments and IPCC AR6 recommendations for CCS deployment.,0,0,0,0,0,0.0,1.0
+G017,mistral_rag,What is the gap in G20 NDC2 submissions regarding nature-based solutions and biodiversity protection compared to IPCC recommendations?,10,5,5,0,0,0.75,0.0
+G018,mistral_rag,"What is the collective conditional versus unconditional gap across G20 NDC2 developing nations, and what does this mean for global ambition?",0,0,0,0,0,0.0,1.0
+G019,mistral_rag,Assess the gap between G20 NDC2 industrial decarbonisation commitments and IPCC AR6 guidance for heavy industry.,0,0,0,0,0,0.0,1.0
+G020,mistral_rag,How does the distribution of G20 NDC2 ambition levels relate to historical cumulative emissions and the equity principle in IPCC AR6?,0,0,0,0,0,0.0,1.0
+G021,mistral_rag,"Which G20 NDC2 submissions address fossil fuel subsidies, and how does this compare to IPCC guidance?",10,5,5,0,0,0.75,0.0
+G022,mistral_rag,"Which G20 countries in the corpus have net zero targets in their NDC2 and which do not, and how does this compare to IPCC's 2050 requirement?",6,6,0,0,0,1.0,0.0
+G023,mistral_rag,What is the gap between G20 NDC2 food system commitments and IPCC AR6 recommendations for sustainable food systems?,0,0,0,0,0,0.0,1.0
+G024,mistral_rag,What is the gap between G20 developed nations' climate finance commitments in their NDC2 and the IPCC-identified needs of developing nations?,10,4,6,0,0,0.7,0.0
+G025,mistral_rag,Summarise the three most critical gaps between the collective G20 NDC2 ambition and IPCC AR6 1.5 degree pathway requirements.,6,2,3,1,0,0.5833,0.1667
+F001,llama_rag,What is India's target for cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030?,2,1,0,1,0,0.5,0.5
+F002,llama_rag,"By how much does India commit to reducing the emissions intensity of its GDP by 2030, compared to 2005 levels?",2,1,0,1,0,0.5,0.5
+F003,llama_rag,What is India's target for additional carbon sink creation through forest and tree cover by 2030?,1,1,0,0,0,1.0,0.0
+F004,llama_rag,When does China commit to achieving peak CO2 emissions under its NDC2?,5,5,0,0,0,1.0,0.0
+F005,llama_rag,What is China's 2030 target for installed capacity of wind and solar power?,1,0,1,0,0,0.5,0.0
+F006,llama_rag,What share of non-fossil fuels in primary energy consumption does China target by 2030?,1,1,0,0,0,1.0,0.0
+F007,llama_rag,What is the United States' 2030 economy-wide greenhouse gas emissions reduction target under its NDC2?,4,4,0,0,0,1.0,0.0
+F008,llama_rag,What is the United Kingdom's 2030 greenhouse gas reduction target and the baseline year used?,4,2,1,1,0,0.625,0.25
+F009,llama_rag,What net zero target has the UK set and what legislation underpins it?,10,4,4,2,0,0.6,0.2
+F010,llama_rag,What is the European Union's binding 2030 greenhouse gas reduction target under its NDC2?,7,2,4,1,0,0.5714,0.1429
+F011,llama_rag,What is Japan's 2030 greenhouse gas reduction target and what baseline year does it use?,6,4,0,2,0,0.6667,0.3333
+F012,llama_rag,What is Australia's 2030 emissions reduction target and net zero commitment year?,3,3,0,0,0,1.0,0.0
+F013,llama_rag,What is Brazil's 2030 absolute emissions reduction target and baseline year?,3,1,1,1,0,0.5,0.3333
+F014,llama_rag,What are Indonesia's unconditional and conditional GHG reduction targets by 2030?,3,0,1,2,0,0.1667,0.6667
+F015,llama_rag,What are Indonesia's primary climate adaptation priorities identified in its NDC2?,10,6,4,0,0,0.8,0.0
+F016,llama_rag,What is South Korea's 2030 NDC target expressed as a percentage reduction from BAU?,4,3,0,1,0,0.75,0.25
+F017,llama_rag,What is Canada's 2030 emissions reduction commitment range and its baseline?,5,5,0,0,0,1.0,0.0
+F018,llama_rag,What are Mexico's unconditional and conditional GHG reduction targets under its NDC2?,5,2,2,1,0,0.6,0.2
+F019,llama_rag,What is South Africa's NDC2 emissions range target for the period 2025-2030?,6,1,2,3,0,0.3333,0.5
+F020,llama_rag,What is Saudi Arabia's NDC2 absolute emissions reduction target by 2030?,1,0,1,0,0,0.5,0.0
+F021,llama_rag,What is Argentina's 2030 absolute emissions cap under its NDC2?,5,3,1,1,0,0.7,0.2
+F022,llama_rag,What is Turkey's 2030 GHG reduction target relative to BAU?,5,2,3,0,0,0.7,0.0
+F023,llama_rag,What is Russia's 2030 GHG reduction target and the baseline used in its NDC2?,7,3,2,2,0,0.5714,0.2857
+F024,llama_rag,What global GHG emission reduction does IPCC AR6 WG3 recommend by 2030 to limit warming to 1.5 degrees Celsius?,0,0,0,0,0,0.0,1.0
+F025,llama_rag,"According to IPCC AR6 WG3, what renewable electricity share is required by 2050 for 1.5 degree pathways?",3,0,2,1,0,0.3333,0.3333
+F026,llama_rag,What does IPCC AR6 WG3 state about the required trajectory for methane emissions to limit warming to 1.5 degrees?,5,2,3,0,0,0.7,0.0
+F027,llama_rag,"According to IPCC AR6 WG3, what share of global electricity supply did renewables reach by 2019 and what was the cost trend?",7,2,2,3,0,0.4286,0.4286
+F028,llama_rag,How did India's NDC2 (2022) update its renewable energy target compared to NDC1 (2015)?,3,2,1,0,0,0.8333,0.0
+F029,llama_rag,Does Indonesia's NDC2 explicitly address loss and damage from climate change?,8,3,2,3,0,0.5,0.375
+F030,llama_rag,What international climate finance condition does India attach to its NDC2 commitments?,4,1,1,2,0,0.375,0.5
+C001,llama_rag,Compare the 2030 GHG reduction targets of the United States and the European Union. Which is more ambitious and why?,10,8,1,1,0,0.85,0.1
+C002,llama_rag,"Compare the net zero target years and legislative bases of the UK, EU, Canada, and Japan.",10,4,2,4,0,0.5,0.4
+C003,llama_rag,Compare India's and China's renewable energy commitments in their NDC2 submissions. Which country has a more specific and measurable target?,8,1,4,3,0,0.375,0.375
+C004,llama_rag,"Why is it difficult to directly compare Japan's 2030 target with the USA's 2030 target, and how should researchers adjust for this?",6,2,0,4,0,0.3333,0.6667
+C005,llama_rag,"Compare the use of conditional targets in Indonesia's, Mexico's, and India's NDC2 submissions.",6,3,2,1,0,0.6667,0.1667
+C006,llama_rag,Compare the 2030 ambition level of Australia's NDC2 against the UK's NDC2 using the same baseline year.,10,4,5,1,0,0.65,0.1
+C007,llama_rag,How do Brazil's and Indonesia's NDC2 submissions differ in their approach to forest-related climate commitments?,10,0,0,10,0,0.0,1.0
+C008,llama_rag,Which G20 countries in the corpus explicitly mention carbon pricing mechanisms in their NDC2 submissions?,5,2,3,0,0,0.7,0.0
+C009,llama_rag,How did China's renewable energy target evolve between NDC1 (2016) and NDC2 (2021)?,10,0,1,9,0,0.05,0.9
+C010,llama_rag,How does the UK's NDC2 assess its per-capita emissions relative to global 1.5 degree pathway benchmarks?,7,4,3,0,0,0.7857,0.0
+C011,llama_rag,Compare the greenhouse gas scope coverage between Saudi Arabia's NDC2 and South Africa's NDC2.,7,4,2,1,0,0.7143,0.1429
+C012,llama_rag,How do India's and China's NDC submissions reference the principle of common but differentiated responsibilities (CBDR)?,0,0,0,0,0,0.0,1.0
+C013,llama_rag,Which countries in the G20 corpus include explicit electric vehicle targets in their NDC2 submissions?,0,0,0,0,0,0.0,1.0
+C014,llama_rag,"Compare the structural quality of Indonesia's NDC2 versus Turkey's NDC2 in terms of specificity, measurability, and time-bound targets.",7,1,3,3,0,0.3571,0.4286
+C015,llama_rag,Which G20 NDC2 submissions in the corpus explicitly address just transition principles for workers in fossil fuel industries?,8,5,3,0,0,0.8125,0.0
+C016,llama_rag,Which has a more ambitious 2030 target relative to the IPCC 1.5°C benchmark — India or Australia?,5,3,2,0,0,0.8,0.0
+C017,llama_rag,How do the USA's and EU's NDC2 submissions address methane reduction compared to the IPCC-recommended 34 percent reduction by 2030?,7,1,4,2,0,0.4286,0.2857
+C018,llama_rag,Compare how Russia and Brazil account for LULUCF in their NDC2 submissions.,10,1,6,3,0,0.4,0.3
+C019,llama_rag,Compare the overall ambition of G20 collective NDC2 targets against the IPCC-recommended 2030 pathway. Is the collective on track?,5,1,4,0,0,0.6,0.0
+C020,llama_rag,Which developing G20 countries in the corpus make the strongest explicit calls for adaptation finance from developed nations?,6,4,2,0,0,0.8333,0.0
+C021,llama_rag,Compare the sector coverage of Canada's and Mexico's NDC2 submissions.,5,5,0,0,0,1.0,0.0
+C022,llama_rag,How do China's and South Korea's NDC2 submissions differ in their approach to hydrogen as a clean energy technology?,6,2,3,1,0,0.5833,0.1667
+C023,llama_rag,"Why do Russia's and Turkey's NDC2 targets appear modest compared to other G20 nations, and what contextual factors explain this?",7,0,2,5,0,0.1429,0.7143
+C024,llama_rag,Compare the transparency and reporting commitments in Japan's and South Korea's NDC2 submissions.,10,2,5,3,0,0.45,0.3
+C025,llama_rag,Which G20 NDC2 submissions explicitly address gender equity and social inclusion in climate action?,7,4,3,0,0,0.7857,0.0
+G001,llama_rag,What is the gap between China's 2030 non-fossil energy target and IPCC AR6 recommendations for the energy sector?,9,5,3,1,0,0.7222,0.1111
+G002,llama_rag,Identify the gap between India's NDC2 long-term targets and IPCC AR6 net zero recommendations for developing nations.,5,3,1,1,0,0.7,0.2
+G003,llama_rag,Assess the gap between G20 NDC2 methane commitments and IPCC AR6 methane reduction recommendations.,8,2,5,1,0,0.5625,0.125
+G004,llama_rag,What is the gap between developing G20 nations' identified adaptation needs and the international finance commitments in their NDC2 submissions?,0,0,0,0,0,0.0,1.0
+G005,llama_rag,"Which G20 NDC2 submissions in the corpus include coal phase-out commitments, and how does this compare to IPCC guidance?",0,0,0,0,0,0.0,1.0
+G006,llama_rag,Identify three G20 NDC2 commitments that are vague and lack measurability compared to IPCC quantified recommendations.,9,0,9,0,0,0.5,0.0
+G007,llama_rag,What is the gap between G20 NDC2 transport sector commitments and IPCC AR6 WG3 transport decarbonisation recommendations?,10,1,7,2,0,0.45,0.2
+G008,llama_rag,Which sectors required by IPCC AR6 for deep decarbonisation are absent or underrepresented in Saudi Arabia's NDC2?,10,4,6,0,0,0.7,0.0
+G009,llama_rag,Is there a contradiction between China's 2060 carbon neutrality commitment and IPCC AR6's recommendation for achieving net zero CO2 by around 2050?,6,4,1,1,0,0.75,0.1667
+G010,llama_rag,What is the gap in G20 NDC2 submissions regarding loss and damage compared to IPCC AR6 WG2 findings on irreversible climate impacts?,0,0,0,0,0,0.0,1.0
+G011,llama_rag,Does Australia's 43% reduction by 2030 align with IPCC's recommended pathway for advanced economies?,5,3,2,0,0,0.8,0.0
+G012,llama_rag,Identify the gap between India's agriculture sector NDC commitments and IPCC AR6 recommendations for agricultural emissions.,10,4,1,5,0,0.45,0.5
+G013,llama_rag,What implementation gaps exist between Mexico's NDC2 stated targets and its domestic policy framework?,10,3,5,2,0,0.55,0.2
+G014,llama_rag,Which sectors required for deep decarbonisation by IPCC AR6 are missing from Russia's NDC2?,6,4,1,1,0,0.75,0.1667
+G015,llama_rag,"Does South Korea's 2030 target of 40% below 2018 BAU align with IPCC requirements for developed economies, and what specific gaps exist?",6,2,4,0,0,0.6667,0.0
+G016,llama_rag,Assess the gap between G20 NDC2 carbon capture and storage (CCS) commitments and IPCC AR6 recommendations for CCS deployment.,9,6,1,2,0,0.7222,0.2222
+G017,llama_rag,What is the gap in G20 NDC2 submissions regarding nature-based solutions and biodiversity protection compared to IPCC recommendations?,10,8,2,0,0,0.9,0.0
+G018,llama_rag,"What is the collective conditional versus unconditional gap across G20 NDC2 developing nations, and what does this mean for global ambition?",7,5,2,0,0,0.8571,0.0
+G019,llama_rag,Assess the gap between G20 NDC2 industrial decarbonisation commitments and IPCC AR6 guidance for heavy industry.,0,0,0,0,0,0.0,1.0
+G020,llama_rag,How does the distribution of G20 NDC2 ambition levels relate to historical cumulative emissions and the equity principle in IPCC AR6?,10,3,6,1,0,0.6,0.1
+G021,llama_rag,"Which G20 NDC2 submissions address fossil fuel subsidies, and how does this compare to IPCC guidance?",0,0,0,0,0,0.0,1.0
+G022,llama_rag,"Which G20 countries in the corpus have net zero targets in their NDC2 and which do not, and how does this compare to IPCC's 2050 requirement?",0,0,0,0,0,0.0,1.0
+G023,llama_rag,What is the gap between G20 NDC2 food system commitments and IPCC AR6 recommendations for sustainable food systems?,0,0,0,0,0,0.0,1.0
+G024,llama_rag,What is the gap between G20 developed nations' climate finance commitments in their NDC2 and the IPCC-identified needs of developing nations?,7,1,5,1,0,0.5,0.1429
+G025,llama_rag,Summarise the three most critical gaps between the collective G20 NDC2 ambition and IPCC AR6 1.5 degree pathway requirements.,9,0,7,2,0,0.3889,0.2222

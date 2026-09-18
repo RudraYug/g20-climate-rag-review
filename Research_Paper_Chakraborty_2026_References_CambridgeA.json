@@ -1,0 +1,1251 @@
+[
+  {
+    "DOI": "10.1145/1571941.1572114",
+    "author": [
+      {
+        "family": "Cormack",
+        "given": "Gordon V."
+      },
+      {
+        "family": "Clarke",
+        "given": "Charles L. A."
+      },
+      {
+        "family": "Buettcher",
+        "given": "Stefan"
+      }
+    ],
+    "container-title": "Proceedings of the 32nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "id": "cormack2009rrf",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "758-759",
+    "publisher": "ACM",
+    "publisher-place": "Boston, MA",
+    "title": "Reciprocal rank fusion outperforms Condorcet and individual rank learning methods",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1093/jla/laae003",
+    "author": [
+      {
+        "family": "Dahl",
+        "given": "Matthew"
+      },
+      {
+        "family": "Magesh",
+        "given": "Varun"
+      },
+      {
+        "family": "Suzgun",
+        "given": "Mirac"
+      },
+      {
+        "family": "Ho",
+        "given": "Daniel E."
+      }
+    ],
+    "container-title": "Journal of Legal Analysis",
+    "id": "dahl2024legal",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "64-93",
+    "title": "Large legal fictions: Profiling legal hallucinations in large language models",
+    "title-short": "Large legal fictions",
+    "type": "article-journal",
+    "volume": "16"
+  },
+  {
+    "DOI": "10.1201/9780429246593",
+    "author": [
+      {
+        "family": "Efron",
+        "given": "Bradley"
+      },
+      {
+        "family": "Tibshirani",
+        "given": "Robert J."
+      }
+    ],
+    "id": "efron1993bootstrap",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "publisher": "Chapman & Hall",
+    "publisher-place": "New York",
+    "title": "An Introduction to the Bootstrap",
+    "type": "book"
+  },
+  {
+    "URL": "https://aclanthology.org/2024.eacl-demo.16/",
+    "author": [
+      {
+        "family": "Es",
+        "given": "Shahul"
+      },
+      {
+        "family": "James",
+        "given": "Jithin"
+      },
+      {
+        "family": "Espinosa-Anke",
+        "given": "Luis"
+      },
+      {
+        "family": "Schockaert",
+        "given": "Steven"
+      }
+    ],
+    "container-title": "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations",
+    "id": "es2024ragas",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "150-158",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "St. Julian’s, Malta",
+    "title": "RAGAS: Automated evaluation of retrieval augmented generation",
+    "title-short": "RAGAS",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.48550/arXiv.2312.10997",
+    "author": [
+      {
+        "family": "Gao",
+        "given": "Yunfan"
+      },
+      {
+        "family": "Xiong",
+        "given": "Yun"
+      },
+      {
+        "family": "Gao",
+        "given": "Xinyu"
+      },
+      {
+        "family": "Jia",
+        "given": "Kangxiang"
+      },
+      {
+        "family": "Pan",
+        "given": "Jinliu"
+      },
+      {
+        "family": "Bi",
+        "given": "Yuxi"
+      },
+      {
+        "family": "Dai",
+        "given": "Yi"
+      },
+      {
+        "family": "Sun",
+        "given": "Jiawei"
+      },
+      {
+        "family": "Wang",
+        "given": "Meng"
+      },
+      {
+        "family": "Wang",
+        "given": "Haofen"
+      }
+    ],
+    "id": "gao2023survey",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2312.10997",
+    "title": "Retrieval-augmented generation for large language models: A survey",
+    "title-short": "Retrieval-augmented generation for large language models",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2312.10997"
+  },
+  {
+    "DOI": "10.48550/arXiv.2310.06825",
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "Albert Q."
+      },
+      {
+        "family": "Sablayrolles",
+        "given": "Alexandre"
+      },
+      {
+        "family": "Mensch",
+        "given": "Arthur"
+      },
+      {
+        "family": "Bamford",
+        "given": "Chris"
+      },
+      {
+        "family": "Chaplot",
+        "given": "Devendra Singh"
+      },
+      {
+        "family": "de las Casas",
+        "given": "Diego"
+      },
+      {
+        "family": "Bressand",
+        "given": "Florian"
+      },
+      {
+        "family": "Lengyel",
+        "given": "Gianna"
+      },
+      {
+        "family": "Lample",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Saulnier",
+        "given": "Lucile"
+      },
+      {
+        "family": "Renard Lavaud",
+        "given": "Lélio"
+      },
+      {
+        "family": "Lachaux",
+        "given": "Marie-Anne"
+      },
+      {
+        "family": "Stock",
+        "given": "Pierre"
+      },
+      {
+        "family": "Le Scao",
+        "given": "Teven"
+      },
+      {
+        "family": "Lavril",
+        "given": "Thibaut"
+      },
+      {
+        "family": "Wang",
+        "given": "Thomas"
+      },
+      {
+        "family": "Lacroix",
+        "given": "Timothée"
+      },
+      {
+        "family": "El Sayed",
+        "given": "William"
+      }
+    ],
+    "id": "jiang2023mistral",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2310.06825",
+    "title": "Mistral 7B",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2310.06825"
+  },
+  {
+    "DOI": "10.48550/arXiv.2410.23902",
+    "author": [
+      {
+        "family": "Juhasz",
+        "given": "Matyas"
+      },
+      {
+        "family": "Dutia",
+        "given": "Kalyan"
+      },
+      {
+        "family": "Franks",
+        "given": "Henry"
+      },
+      {
+        "family": "Delahunty",
+        "given": "Conor"
+      },
+      {
+        "family": "Mills",
+        "given": "Patrick Fawbert"
+      },
+      {
+        "family": "Pim",
+        "given": "Harrison"
+      }
+    ],
+    "id": "juhasz2024responsible",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2410.23902",
+    "title": "Responsible retrieval augmented generation for climate decision making from documents",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2410.23902",
+    "year-suffix": "a"
+  },
+  {
+    "DOI": "10.48550/arXiv.2404.02822",
+    "author": [
+      {
+        "family": "Juhasz",
+        "given": "Matyas"
+      },
+      {
+        "family": "Marchand",
+        "given": "Tina"
+      },
+      {
+        "family": "Melwani",
+        "given": "Roshan"
+      },
+      {
+        "family": "Dutia",
+        "given": "Kalyan"
+      },
+      {
+        "family": "Goodenough",
+        "given": "Sarah"
+      },
+      {
+        "family": "Pim",
+        "given": "Harrison"
+      },
+      {
+        "family": "Franks",
+        "given": "Henry"
+      }
+    ],
+    "id": "juhasz2024targets",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2404.02822",
+    "title": "Identifying climate targets in national laws and policies using machine learning",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2404.02822",
+    "year-suffix": "b"
+  },
+  {
+    "DOI": "10.18653/v1/2024.customnlp4u-1.18",
+    "author": [
+      {
+        "family": "Kalra",
+        "given": "Rishi"
+      },
+      {
+        "family": "Wu",
+        "given": "Zekun"
+      },
+      {
+        "family": "Gulley",
+        "given": "Ayesha"
+      },
+      {
+        "family": "Hilliard",
+        "given": "Airlie"
+      },
+      {
+        "family": "Guan",
+        "given": "Xin"
+      },
+      {
+        "family": "Koshiyama",
+        "given": "Adriano"
+      },
+      {
+        "family": "Treleaven",
+        "given": "Philip Colin"
+      }
+    ],
+    "container-title": "Proceedings of the 1st Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual",
+    "id": "kalra2024hypa",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "237-256",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Miami, FL",
+    "title": "HyPA-RAG: A hybrid parameter adaptive retrieval-augmented generation system for AI legal and policy applications",
+    "title-short": "HyPA-RAG",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2005.11401",
+    "author": [
+      {
+        "family": "Lewis",
+        "given": "Patrick"
+      },
+      {
+        "family": "Perez",
+        "given": "Ethan"
+      },
+      {
+        "family": "Piktus",
+        "given": "Aleksandra"
+      },
+      {
+        "family": "Petroni",
+        "given": "Fabio"
+      },
+      {
+        "family": "Karpukhin",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Goyal",
+        "given": "Naman"
+      },
+      {
+        "family": "Küttler",
+        "given": "Heinrich"
+      },
+      {
+        "family": "Lewis",
+        "given": "Mike"
+      },
+      {
+        "family": "Yih",
+        "given": "Wen-tau"
+      },
+      {
+        "family": "Rocktäschel",
+        "given": "Tim"
+      },
+      {
+        "family": "Riedel",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Kiela",
+        "given": "Douwe"
+      }
+    ],
+    "container-title": "Advances in Neural Information Processing Systems 33",
+    "id": "lewis2020rag",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "page": "9459-9474",
+    "publisher": "Curran Associates",
+    "title": "Retrieval-augmented generation for knowledge-intensive NLP tasks",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://aclanthology.org/W04-1013/",
+    "author": [
+      {
+        "family": "Lin",
+        "given": "Chin-Yew"
+      }
+    ],
+    "container-title": "Text Summarization Branches Out",
+    "id": "lin2004rouge",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "74-81",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Barcelona, Spain",
+    "title": "ROUGE: A package for automatic evaluation of summaries",
+    "title-short": "ROUGE",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1162/tacl_a_00638",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Nelson F."
+      },
+      {
+        "family": "Lin",
+        "given": "Kevin"
+      },
+      {
+        "family": "Hewitt",
+        "given": "John"
+      },
+      {
+        "family": "Paranjape",
+        "given": "Ashwin"
+      },
+      {
+        "family": "Bevilacqua",
+        "given": "Michele"
+      },
+      {
+        "family": "Petroni",
+        "given": "Fabio"
+      },
+      {
+        "family": "Liang",
+        "given": "Percy"
+      }
+    ],
+    "container-title": "Transactions of the Association for Computational Linguistics",
+    "id": "liu2024lost",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "157-173",
+    "title": "Lost in the middle: How language models use long contexts",
+    "title-short": "Lost in the middle",
+    "type": "article-journal",
+    "volume": "12"
+  },
+  {
+    "DOI": "10.1609/aaai.v38i20.30232",
+    "author": [
+      {
+        "family": "Louis",
+        "given": "Antoine"
+      },
+      {
+        "family": "van Dijck",
+        "given": "Gijs"
+      },
+      {
+        "family": "Spanakis",
+        "given": "Gerasimos"
+      }
+    ],
+    "container-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "id": "louis2024legalqa",
+    "issue": "20",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "22266-22275",
+    "title": "Interpretable long-form legal question answering with retrieval-augmented large language models",
+    "type": "article-journal",
+    "volume": "38"
+  },
+  {
+    "DOI": "10.48550/arXiv.2407.21783",
+    "author": [
+      {
+        "literal": "Meta AI"
+      }
+    ],
+    "id": "meta2024llama",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2407.21783",
+    "title": "The Llama 3 herd of models",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2407.21783"
+  },
+  {
+    "URL": "https://openai.com/index/gpt-4o-system-card/",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          21
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "OpenAI"
+      }
+    ],
+    "id": "openai2024gpt4o",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "title": "GPT-4o System Card",
+    "type": "webpage",
+    "publisher": "OpenAI"
+  },
+  {
+    "DOI": "10.48550/arXiv.2408.10343",
+    "author": [
+      {
+        "family": "Pipitone",
+        "given": "Nicholas"
+      },
+      {
+        "family": "Alami",
+        "given": "Ghita Houir"
+      }
+    ],
+    "id": "pipitone2024legalbench",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2408.10343",
+    "title": "LegalBench-RAG: A benchmark for retrieval-augmented generation in the legal domain",
+    "title-short": "LegalBench-RAG",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2408.10343"
+  },
+  {
+    "DOI": "10.18653/v1/2025.nllp-1.3",
+    "author": [
+      {
+        "family": "Reuter",
+        "given": "Markus"
+      },
+      {
+        "family": "Lingenberg",
+        "given": "Tobias"
+      },
+      {
+        "family": "Liepina",
+        "given": "Ruta"
+      },
+      {
+        "family": "Lagioia",
+        "given": "Francesca"
+      },
+      {
+        "family": "Lippi",
+        "given": "Marco"
+      },
+      {
+        "family": "Sartor",
+        "given": "Giovanni"
+      },
+      {
+        "family": "Passerini",
+        "given": "Andrea"
+      },
+      {
+        "family": "Sayin",
+        "given": "Burcu"
+      }
+    ],
+    "container-title": "Proceedings of the Natural Legal Language Processing Workshop 2025",
+    "id": "reuter2025reliable",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "17-30",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Suzhou, China",
+    "title": "Towards reliable retrieval in RAG systems for large legal datasets",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1007/978-1-4471-2099-5_24",
+    "author": [
+      {
+        "family": "Robertson",
+        "given": "Stephen E."
+      },
+      {
+        "family": "Walker",
+        "given": "Steve"
+      }
+    ],
+    "container-title": "SIGIR ’94: Proceedings of the 17th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "id": "robertson1994poisson",
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "232-241",
+    "publisher": "Springer",
+    "publisher-place": "Dublin, Ireland",
+    "title": "Some simple effective approximations to the 2-Poisson model for probabilistic weighted retrieval",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.18653/v1/2024.acl-long.105",
+    "author": [
+      {
+        "family": "Schimanski",
+        "given": "Tobias"
+      },
+      {
+        "family": "Ni",
+        "given": "Jingwei"
+      },
+      {
+        "family": "Kraus",
+        "given": "Mathias"
+      },
+      {
+        "family": "Ash",
+        "given": "Elliott"
+      },
+      {
+        "family": "Leippold",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "id": "schimanski2024faithful",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "1913-1931",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Bangkok, Thailand",
+    "title": "Towards faithful and robust LLM specialists for evidence-based question-answering",
+    "type": "paper-conference"
+  },
+  {
+    "DOI": "10.1017/9781009157926",
+    "editor": [
+      {
+        "family": "Shukla",
+        "given": "Priyadarshi R."
+      },
+      {
+        "family": "Skea",
+        "given": "Jim"
+      },
+      {
+        "family": "Slade",
+        "given": "Raphael"
+      },
+      {
+        "family": "Al Khourdajie",
+        "given": "Alaa"
+      },
+      {
+        "family": "van Diemen",
+        "given": "Renée"
+      },
+      {
+        "family": "McCollum",
+        "given": "David"
+      },
+      {
+        "family": "Pathak",
+        "given": "Minal"
+      },
+      {
+        "family": "Some",
+        "given": "Shreya"
+      },
+      {
+        "family": "Vyas",
+        "given": "Purvi"
+      },
+      {
+        "family": "Fradera",
+        "given": "Roger"
+      },
+      {
+        "family": "Belkacemi",
+        "given": "Malek"
+      },
+      {
+        "family": "Hasija",
+        "given": "Aparna"
+      },
+      {
+        "family": "Lisboa",
+        "given": "G."
+      },
+      {
+        "family": "Luz",
+        "given": "Silvia"
+      },
+      {
+        "family": "Malley",
+        "given": "James"
+      }
+    ],
+    "id": "shukla2022mitigation",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "Cambridge University Press",
+    "publisher-place": "Cambridge; New York",
+    "title": "Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change",
+    "title-short": "Climate change 2022",
+    "type": "book"
+  },
+  {
+    "DOI": "10.18653/v1/2025.emnlp-industry.54",
+    "author": [
+      {
+        "family": "Tamber",
+        "given": "Manveer Singh"
+      },
+      {
+        "family": "Bao",
+        "given": "Forrest Sheng"
+      },
+      {
+        "family": "Xu",
+        "given": "Chenyu"
+      },
+      {
+        "family": "Luo",
+        "given": "Ge"
+      },
+      {
+        "family": "Kazi",
+        "given": "Suleman"
+      },
+      {
+        "family": "Bae",
+        "given": "Minseok"
+      },
+      {
+        "family": "Li",
+        "given": "Miaoran"
+      },
+      {
+        "family": "Mendelevitch",
+        "given": "Ofer"
+      },
+      {
+        "family": "Qu",
+        "given": "Renyi"
+      },
+      {
+        "family": "Lin",
+        "given": "Jimmy"
+      }
+    ],
+    "container-title": "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track",
+    "id": "tamber2025faithjudge",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "page": "799-811",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Suzhou, China",
+    "title": "Benchmarking LLM faithfulness in RAG with evolving leaderboards",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "literal": "United Nations Framework Convention on Climate Change"
+      }
+    ],
+    "id": "unfccc2015paris",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "United Nations Framework Convention on Climate Change",
+    "title": "The Paris Agreement",
+    "type": "webpage"
+  },
+  {
+    "DOI": "10.1038/s43247-023-01084-x",
+    "author": [
+      {
+        "family": "Vaghefi",
+        "given": "Saeid Ashraf"
+      },
+      {
+        "family": "Stammbach",
+        "given": "Dominik"
+      },
+      {
+        "family": "Muccione",
+        "given": "Veruska"
+      },
+      {
+        "family": "Bingler",
+        "given": "Julia"
+      },
+      {
+        "family": "Ni",
+        "given": "Jingwei"
+      },
+      {
+        "family": "Kraus",
+        "given": "Mathias"
+      },
+      {
+        "family": "Allen",
+        "given": "Simon"
+      },
+      {
+        "family": "Colesanti-Senni",
+        "given": "Chiara"
+      },
+      {
+        "family": "Wekhof",
+        "given": "Tobias"
+      },
+      {
+        "family": "Schimanski",
+        "given": "Tobias"
+      },
+      {
+        "family": "Gostlow",
+        "given": "Glen"
+      },
+      {
+        "family": "Yu",
+        "given": "Tingyu"
+      },
+      {
+        "family": "Wang",
+        "given": "Qian"
+      },
+      {
+        "family": "Webersinke",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Huggel",
+        "given": "Christian"
+      },
+      {
+        "family": "Leippold",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "Communications Earth & Environment",
+    "id": "vaghefi2023chatclimate",
+    "issue": "1",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "page": "480",
+    "title": "ChatClimate: Grounding conversational AI in climate science",
+    "title-short": "ChatClimate",
+    "type": "article-journal",
+    "volume": "4"
+  },
+  {
+    "URL": "https://trec.nist.gov/pubs/trec8/papers/qareport.pdf",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Voorhees",
+        "given": "Ellen M."
+      },
+      {
+        "family": "Tice",
+        "given": "Dawn M."
+      }
+    ],
+    "id": "voorhees1999trec",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "publisher": "National Institute of Standards and Technology",
+    "publisher-place": "Gaithersburg, MD",
+    "title": "The TREC-8 Question Answering Track Report",
+    "type": "report"
+  },
+  {
+    "DOI": "10.18653/v1/2024.emnlp-main.981",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Xiaohua"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhenghua"
+      },
+      {
+        "family": "Gao",
+        "given": "Xuan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Feiran"
+      },
+      {
+        "family": "Wu",
+        "given": "Yixin"
+      },
+      {
+        "family": "Xu",
+        "given": "Zhibo"
+      },
+      {
+        "family": "Shi",
+        "given": "Tianyuan"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhengyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Shizheng"
+      },
+      {
+        "family": "Qian",
+        "given": "Qi"
+      },
+      {
+        "family": "Yin",
+        "given": "Ruicheng"
+      },
+      {
+        "family": "Lv",
+        "given": "Changze"
+      },
+      {
+        "family": "Zheng",
+        "given": "Xiaoqing"
+      },
+      {
+        "family": "Huang",
+        "given": "Xuanjing"
+      }
+    ],
+    "container-title": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    "id": "wang2024bestpractices",
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "page": "17716-17736",
+    "publisher": "Association for Computational Linguistics",
+    "publisher-place": "Miami, FL",
+    "title": "Searching for best practices in retrieval-augmented generation",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://www.climatechange.ai/papers/aaaifss2022/12",
+    "author": [
+      {
+        "family": "Webersinke",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Kraus",
+        "given": "Mathias"
+      },
+      {
+        "family": "Bingler",
+        "given": "Julia Anna"
+      },
+      {
+        "family": "Leippold",
+        "given": "Markus"
+      }
+    ],
+    "container-title": "AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges",
+    "id": "webersinke2022climatebert",
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher-place": "Arlington, VA",
+    "title": "ClimateBERT: A pretrained language model for climate-related text",
+    "title-short": "ClimateBert",
+    "type": "paper-conference",
+    "accessed": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          12
+        ]
+      ]
+    }
+  },
+  {
+    "DOI": "10.48550/arXiv.2309.07597",
+    "author": [
+      {
+        "family": "Xiao",
+        "given": "Shitao"
+      },
+      {
+        "family": "Liu",
+        "given": "Zheng"
+      },
+      {
+        "family": "Zhang",
+        "given": "Peitian"
+      },
+      {
+        "family": "Muennighoff",
+        "given": "Niklas"
+      }
+    ],
+    "id": "xiao2023cpack",
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "arXiv preprint 2309.07597",
+    "title": "C-Pack: Packaged Resources to Advance General Chinese Embedding",
+    "title-short": "C-pack",
+    "type": "article",
+    "genre": "arXiv preprint",
+    "number": "arXiv:2309.07597"
+  },
+  {
+    "URL": "https://openreview.net/forum?id=SkeHuCVFDr",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "Tianyi"
+      },
+      {
+        "family": "Kishore",
+        "given": "Varsha"
+      },
+      {
+        "family": "Wu",
+        "given": "Felix"
+      },
+      {
+        "family": "Weinberger",
+        "given": "Kilian Q."
+      },
+      {
+        "family": "Artzi",
+        "given": "Yoav"
+      }
+    ],
+    "container-title": "International Conference on Learning Representations",
+    "id": "zhang2020bertscore",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "title": "BERTScore: Evaluating text generation with BERT",
+    "title-short": "BERTScore",
+    "type": "paper-conference"
+  }
+]
