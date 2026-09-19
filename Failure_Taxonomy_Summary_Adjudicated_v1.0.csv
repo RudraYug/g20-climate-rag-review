@@ -1,0 +1,9 @@
+primary_outcome,label,n,percent
+NONE,Correct — no primary issue,40,50.0
+FM1_RETRIEVAL_MISS,Retrieval Miss,6,7.5
+FM2_CONTEXT_NOISE,Context Noise,0,0.0
+FM3_CONTEXT_INCOMPLETE,Context Incomplete,8,10.0
+FM4_LLM_HALLUCINATION,Unsupported/Fabricated Claim — automated-judge flag,12,15.0
+FM5_LLM_VAGUENESS,LLM Vagueness,1,1.2
+FM6_METRIC_MISMATCH,Metric Mismatch,13,16.2
+FM7_CORPUS_GAP,Corpus Gap,0,0.0

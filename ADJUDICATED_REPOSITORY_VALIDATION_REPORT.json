@@ -1,0 +1,35 @@
+{
+  "missing_required_files": [],
+  "row_counts": {
+    "data/outputs/gpt4o_no_rag_outputs_80.csv": 80,
+    "data/outputs/gpt4o_rag_outputs_80.csv": 80,
+    "data/outputs/mistral_rag_outputs_80.csv": 80,
+    "data/outputs/llama_rag_outputs_80.csv": 80,
+    "data/claims/no_rag_atomic_claim_labels_579.csv": 579,
+    "data/claims/question_level_claim_counts_all_conditions_320.csv": 320,
+    "data/heatmap/heatmap_cells_119_with_evidence.csv": 119,
+    "data/heatmap/formal_validation_8_with_evidence.csv": 8,
+    "data/questions/final_adjudicated/Final_Adjudicated_Reference_Set_80_v1.0.csv": 80,
+    "data/questions/final_adjudicated/Adjudication_Log_59_v1.0.csv": 59,
+    "data/evaluation/reference_metrics_v1.0/reference_dependent_metrics_per_query_v1.0.csv": 320,
+    "data/evaluation/failure_taxonomy_v1.0/failure_taxonomy_per_question_adjudicated_v1.0.csv": 80
+  },
+  "adjudication": {
+    "reference_version_values": [
+      "v1.0"
+    ],
+    "disposition_counts": {
+      "Retain": 21,
+      "Clarify": 17,
+      "Reconstruct": 12,
+      "Revise": 30
+    },
+    "wording_changes": 4,
+    "missing_final_answers": 0,
+    "missing_source_basis": 0,
+    "reviewer_confirmation_values": [
+      "Not obtained"
+    ]
+  },
+  "passes": true
+}

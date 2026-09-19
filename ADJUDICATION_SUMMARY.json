@@ -1,0 +1,11 @@
+{
+  "version": "v1.0",
+  "created_utc": "2026-09-18T17:44:31.302601+00:00",
+  "total_items": 80,
+  "retained_full_agreement": 21,
+  "adjudicated_partial": 50,
+  "adjudicated_none": 9,
+  "adjudicated_total": 59,
+  "reviewer_confirmation_of_final_answers": "Not obtained",
+  "status": "Source-adjudicated within-study reference set; not a multi-expert gold standard"
+}
